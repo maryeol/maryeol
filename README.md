@@ -4,9 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently an intern at **[Sheidt und Bachmann Company](https://www.scheidt-bachmann.de/en/)**
-
-- 🌱 I’m currently learning **Mobile Development**
+- 🔭 Student of Integrated IT engineering at **[SEOUL NATIONAL UNIVERSITY OF SCINECE AND TECHNOLOGY](https://en.seoultech.ac.kr/)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
