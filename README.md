@@ -1,10 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mariem Kallel</h1>
-<h3 align="center">Computer Science student from Tunisia.</h3>
-
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Student of Integrated IT engineering at **[SEOUL NATIONAL UNIVERSITY OF SCINECE AND TECHNOLOGY](https://en.seoultech.ac.kr/)**
+- 🔭 Student of Applied Artificial Intelligence at **[SEOUL NATIONAL UNIVERSITY OF SCINECE AND TECHNOLOGY](https://en.seoultech.ac.kr/)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
